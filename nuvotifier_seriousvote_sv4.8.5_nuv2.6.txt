@@ -1,0 +1,178 @@
+First Part
+rge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+> 
+[K[14:47:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;1mStarte [39;0m[0;37;1mNucleus[39;0m[0;37;1m Version [39;0m[0;37;1mNucleus[39;0m[0;37;1m, lÃ¤uft auf Sponge API [39;0m[0;37;1m7.1.0-ea50f0c2[39;0m[0;37;1m.[39;0m[39;0m
+> 
+[K[14:47:46] [Server thread/INFO] [nucleus]: Nucleus startet jetzt. Trete in die Pre-Initialisierungsphase ein.
+> 
+[K[14:47:46] [Server thread/INFO] [nucleus]: Starting QuickStart Module Loader version 0.11.0 subsystem.
+> 
+[K[14:47:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m       [39;0m[0;36;22m __    [39;0m[39;0m
+> 
+[K[14:47:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |    [39;0m[0;36;22m|__)   [39;0m[0;32;22mLuckPerms [39;0m[0;36;1mv4.3.75[39;0m[39;0m
+> 
+[K[14:47:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |___ [39;0m[0;36;22m|      [39;0m[0;30;1mRunning on Sponge - SpongeForge[39;0m[39;0m
+> 
+[K[14:47:46] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> 
+[K[14:47:46] [Server thread/INFO] [luckperms]: Loading configuration...
+> 
+[K[14:47:47] [Server thread/INFO] [luckperms]: Loading storage provider... [H2]
+> 
+[K[14:47:49] [Server thread/INFO] [luckperms]: Loading internal permission managers...
+> 
+[K[14:47:49] [Server thread/INFO] [luckperms]: Registering PermissionService...
+> 
+[K[14:47:49] [Server thread/INFO] [luckperms]: Performing initial data load...
+> 
+[K[14:47:49] [Server thread/INFO] [luckperms]: Successfully enabled. (took 3017ms)
+> 
+[K[14:47:49] [Server thread/INFO] [mmcreboot]: 
+bStats metrics is present in 3 plugins on this server.
+Presently, none of them are allowed to send data.
+Presently, the following 3 plugins are not allowed to send data:
+[MMCReboot, Lottery, SeriousVote]
+To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]:                                                                                                     
+                                                                       [0;32mNN[0;36m                          
+                                                                      [0;32mooo[0;36m                           
+                                                                    [0;32mNoooN[0;36m                           
+                                                                   [0;32mNoooN[0;36m                            
+                                                                  [0;32mooooN[0;36m                             
+     NNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNNNNNNNNNNN[0;32mooo[0;36mNNNN   NNNNN  NNNNNNNNNNNN     
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNNNNNNNNNNN[0;32moo[0;36mNNNNN   NNNNN  NNNNNNNNNNNNN    
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNNNNNNNNNNNN NNNNN   NNNNN  NNNNNNNNNNNNN    
+    NNNNNN         NNNNN        NNNNNN NNNNNN NNNNN  NNNNN  [0;32mNo[0;36mNNNNN NNNNN   NNNNN  NNNNN            
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNNN [0;32mNooN[0;36mNNNN NNNNN   NNNNN  NNNNNNNNNNNN     
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNNN[0;32mNoooN[0;36mNNNN NNNNN   NNNNN  NNNNNNNNNNNNN    
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNNN NNNNN  NNNN[0;32moooooN[0;36mNNNN NNNNN   NNNNN  NNNNNNNNNNNNN    
+     NNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNN  NNNNN  NNNN[0;32moooooN[0;36mNNNN NNNNN   NNNNN  NNNNNNNNNNNNN    
+            NNNNN  NNNNN        NNNNNN NNNNNN NNNNN  NNNN[0;32moooN[0;36mNNNNNN NNNNNN  NNNNN         NNNNNN    
+     NNNNNNNNNNNN  NNNNNNNNNNNN NNNNNN NNNNNN NNNNN  NNNNN[0;32mooN[0;36mNNNNNN NNNNNNNNNNNNN  NNNNNNNNNNNNN    
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNN NNNNNN NNNNN  NNNNNNNNNNNNNN NNNNNNNNNNNNN  NNNNNNNNNNNNN    
+    NNNNNNNNNNNNN  NNNNNNNNNNNN NN[0;32mNN[0;36mNN NNNNNN NNNNN NNNNNNNNNNNNNNN NNNNNNNNNNNNN  NNNNNNNNNNNNN    
+     NNNNNNNNNNNN  NNNNNNNNNNNN N[0;32mNooN[0;36m  NNNNN  NNNNN[0;32mNooooN[0;36mNNNNNNNNN  NNNNNNNNNNNNN  NNNNNNNNNNNN     
+                                 [0;32mNoooN            NoooooN[0;36m                                           
+                                  [0;32moooooN          ooooN[0;36m                                             
+                                  [0;32mNooooooN       oooooN[0;36mNNNNNNNNNNNN NNNNNNNNNNNNN NNNNNNNNNNNN      
+                                    [0;32mNoooooN     NoooooN[0;36mNNNNNNNNNNNN  NNNNNNNNNNNN NNNNNNNNNNNN      
+                                     [0;32mNoooooo    ooooo[0;36mNNNNNN   NNNNN     NNNNNN    NNNNNN            
+                                      [0;32mNoooooo  ooooo[0;36m NNNNNN   NNNNN     NNNNNN    NNNNNNNNNNNN      
+                                       [0;32mNoooooNNooooN[0;36m NNNNNN   NNNNN     NNNNNN    NNNNNNNNNNNN      
+                                        [0;32mooooooooooN[0;36m  NNNNNN   NNNNN     NNNNNN    NNNNNNNNNNNN      
+                                         [0;32mooooooooo[0;36m   NNNNNN   NNNNN     NNNNNN    NNNNNNNNNNNN      
+                                         [0;32mNoooooooN[0;36m   NNNNNN   NNNNN     NNNNNN    NNNNNN            
+                                          [0;32mNoooooN[0;36m    NNNNNNNNNNNNNN     NNNNNN    NNNNNNNNNNNN      
+                                           [0;32mooooo[0;36m     NNNNNNNNNNNNNN     NNNNNN    NNNNNNNNNNNN      
+                                           [0;32mNoooN[0;36m     NNNNNNNNNNNNNN     NNNNNN    NNNNNNNNNNNN      
+                                            [0;32mooo[0;36m                                                     
+                                            [0;32mNoN[0;36m                                                     
+                                             [0;32mo[0;36m     
+
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]: [1;33mSerious Vote Version: [1;35m4.8.6[1;33m MC-Version: [1;35m1.12.2[1;33m Sponge-Version: [1;35mSpongeForge-1.12.2-2838-7.1.8
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]: [0;33mTrying To setup Config Loader
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]: Attempting to load in offline player votes....[0m
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]: [0;35m3[0;33m Tables Imported for Rewards[0m
+> 
+[K[14:47:49] [Server thread/INFO] [seriousvote]: [0;33mTrying to load offline player votes from ... /home/zap474903/g202740/rlcraft/./config/seriousvote/offlinevotes.dat[0m
+> 
+[K[14:47:49] [Server thread/INFO] [catclearlag]: Setting up config...
+> 
+[K[14:47:49] [Server thread/INFO] [AutoPickup]: Loading global configuration ..
+> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*                                                                                                                                                                                        Could not pass  FMLPreInitializationEvent                                                                                                                                                                                        */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /* Could not pass the event FMLPreInitializationEvent to an Event Listener!                                                                                                                                                                                                                                                                                                                                                */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*                                                                                                                                                                                                                                                                                                                                                                                                                         */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,
+ there could be adverse side effects of the exception occuring
+such that duplications or other game breaking issues could exist.
+Due to the nature of the exception, this is not likely an exception
+that is covered by SpongeForge or Forge itself, and therefor should
+be reported to the mod/plugin author first prior to reporting to
+Sponge or Forge. */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: consensus                                                                                                                                                                                                                                                                                                                                                                                            */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                                                                                                                                                                                                                                                                                                                              */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /* ninja.leaping.configurate.objectmapping.ObjectMappingException: java.time.format.DateTimeParseException: Text cannot be parsed to a Duration                                                                                                                                                                                                                                                                            */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     flavor.pie.consensus.DurationSerializer.deserialize(DurationSerializer.java:22)                                                                                                                                                                                                                                                                                                                                     */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     flavor.pie.consensus.DurationSerializer.deserialize(DurationSerializer.java:11)                                                                                                                                                                                                                                                                                                                                     */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.ObjectMapper$FieldData.deserializeFrom(ObjectMapper.java:94)                                                                                                                                                                                                                                                                                                                */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.ObjectMapper$BoundInstance.populate(ObjectMapper.java:155)                                                                                                                                                                                                                                                                                                                  */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.serialize.TypeSerializers$AnnotatedObjectSerializer.deserialize(TypeSerializers.java:283)                                                                                                                                                                                                                                                                                   */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.ObjectMapper$FieldData.deserializeFrom(ObjectMapper.java:94)                                                                                                                                                                                                                                                                                                                */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.ObjectMapper$BoundInstance.populate(ObjectMapper.java:155)                                                                                                                                                                                                                                                                                                                  */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.objectmapping.serialize.TypeSerializers$AnnotatedObjectSerializer.deserialize(TypeSerializers.java:283)                                                                                                                                                                                                                                                                                   */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.SimpleConfigurationNode.getValue(SimpleConfigurationNode.java:218)                                                                                                                                                                                                                                                                                                                        */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     ninja.leaping.configurate.ConfigurationNode.getValue(ConfigurationNode.java:491)                                                                                                                                                                                                                                                                                                                                    */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     flavor.pie.consensus.Consensus.loadConfig(Consensus.java:88)                                                                                                                                                                                                                                                                                                                                                        */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     flavor.pie.consensus.Consensus.preInit(Consensus.java:68)                                                                                                                                                                                                                                                                                                                                                           */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.GamePreInitializationEventListener_Consensus_preInit11.handle(Unknown Source)                                                                                                                                                                                                                                                                                               */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                                                                                                                                                                                                                                                                                                                */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)                                                                                                                                                                                                                                                                                                                              */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:454)                                                                                                                                                                                                                                                                                                                      */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:415)                                                                                                                                                                                                                                                                                                                              */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                                                                                                                                                                                                                                                                                                                  */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:378)                                                                                                                                                                                                                                                                                                                                                    */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                                                                                                                                                                                                                                                                                                         */
+[39;0m> 
+[K[33;1m[14:47:50] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                                                     
+
+
+Second part
+
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: Loaded token for website: default
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: QUIET mode enabled!
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: ------------------------------------------------------------------------------
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: Your Votifier port is less than 0, so we assume you do NOT want to start the
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: votifier port server! Votifier will not listen for votes over any port, and
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: will only listen for pluginMessaging forwarded votes!
+> 
+[K[14:48:20] [Server thread/INFO] [nuvotifier]: ------------------------------------------------------------------------------
+> 
+[K[31;1m[14:48:20] [Server thread/ERROR] [nuvotifier]: No vote forwarding method 'nuvotifier:votes' known. Defaulting to noop implementation.
+[39;0m> 
+[K[14:48:20] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+> 
+[K[14:48:20] [Server thread/INFO] [totaleconomy]: Total Economy Started
+> 
+[K[14:48:20] [Server thread/INFO] [mmcreboot]: [MMCReboot] Using fixed restart scheduler
+>
